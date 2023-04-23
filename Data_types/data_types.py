@@ -29,4 +29,17 @@ print(type(froz)); # frozenset types data
 hello = True; # or False
 print(type(hello)); # boole types data either true or false
 
+var = 10;
+Var = 20;
+
+print(var,Var);
+
+x, y, z = "Orange", "Banana", "Cherry" # multiple values in multiple variable 
+print(x)
+print(y)
+print(z)
+
+# one Value in Multiple variable 
+
+
 

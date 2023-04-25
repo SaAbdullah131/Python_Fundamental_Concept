@@ -6,7 +6,7 @@ print("Hello");
 print('Hello');
 
 # Assign string to a variable 
-a = "Hello";
+a = "Hello ";
 print(a);
 
 # Multiline String
@@ -30,6 +30,7 @@ print('length is : ',len(vari));
 # Check String 
 txt = " The best things in life are free!";
 print('free' in txt); # it return boolean value that means True or False;
+
 if 'free' in txt:
     print ("Yes,'free' is present");
 
@@ -37,3 +38,7 @@ print("expensive" not in txt); # expensive not in txt this is true cause expensi
 
 if 'expensive' not in txt: 
     print("No, 'expensive' is Not Present");
+
+for x in 'banana':
+    print(x);    
+print(len('banana'));

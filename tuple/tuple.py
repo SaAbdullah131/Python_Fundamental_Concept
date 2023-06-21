@@ -23,3 +23,6 @@ print(type(mixTuple))
 consTuple = tuple(('Kolim Uddin','Mukter Udding',"jamil Uddin"));
 print(consTuple);
  
+ # tuple typeof check 
+helloTuple = ('mukter','rion','zunu');
+print(type(helloTuple));
